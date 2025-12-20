@@ -1,9 +1,11 @@
 > [!IMPORTANT]
-> Microsoft recently blocked the method we've been using to get free text-to-speech (December 17, 2025)
+> ~~Microsoft recently blocked the method we've been using to get free text-to-speech (December 17, 2025)~~
 > 
-> It's unclear whether or not a work-around will be possible. https://github.com/travisvn/obsidian-edge-tts/issues/92#issuecomment-3673821661
+> ~~It's unclear whether or not a work-around will be possible. https://github.com/travisvn/obsidian-edge-tts/issues/92#issuecomment-3673821661~~
 >
-> I will try my best to get this working again and to keep you updated. 
+> ~~I will try my best to get this working again and to keep you updated.~~
+>
+> _Everything's working again!_ 🥹
 
 # Obsidian Edge TTS Plugin 🗣️
 
