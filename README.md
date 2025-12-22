@@ -5,7 +5,11 @@
 >
 > ~~I will try my best to get this working again and to keep you updated.~~
 >
-> _Everything's working again!_ 🥹
+> ~~_Everything's working again!_ 🥹~~
+>
+> Aaand it's broken again. I don't know if this is temporary or not but I'm not holding my breath 🙄 (December 22, 2025)
+>
+> https://github.com/travisvn/obsidian-edge-tts/issues/92#issuecomment-3673821661 
 
 # Obsidian Edge TTS Plugin 🗣️
 
