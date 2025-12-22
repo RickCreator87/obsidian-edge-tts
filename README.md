@@ -1,13 +1,9 @@
 > [!IMPORTANT]
-> ~~Microsoft recently blocked the method we've been using to get free text-to-speech (December 17, 2025)~~
-> 
-> ~~It's unclear whether or not a work-around will be possible. https://github.com/travisvn/obsidian-edge-tts/issues/92#issuecomment-3673821661~~
+> Microsoft has been inconsistent in their servers allowing for the work-around we use to get free text-to-speech starting around December 17th, 2025
 >
-> ~~I will try my best to get this working again and to keep you updated.~~
+> If you're reading this, it's possible the servers are down again. Please know that it's very likely I'm already aware.
 >
-> ~~_Everything's working again!_ 🥹~~
->
-> Aaand it's broken again. I don't know if this is temporary or not but I'm not holding my breath 🙄 (December 22, 2025)
+> I will update here should we end up in a situation where we know whether or not these periods of downtime are the shape of things to come or just a blip.
 >
 > https://github.com/travisvn/obsidian-edge-tts/issues/92#issuecomment-3673821661 
 
